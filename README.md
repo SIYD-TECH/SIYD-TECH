@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Solomon
 
-A passionate **Front-End Developer** and **Computer Science Master's student** aiming to become fully job‑ready. I specialize in building responsive, accessible, and clean UI experiences with **HTML**, **CSS**, **Tailwind**, and **JavaScript**.
+A passionate **Front-End Developer** and **Computer Science student** aiming to become fully job‑ready. I specialize in building responsive, accessible, and clean UI experiences with **HTML**, **CSS**, **Tailwind**, React and **JavaScript**.
 
 ---
 
@@ -17,7 +17,7 @@ A passionate **Front-End Developer** and **Computer Science Master's student** a
 ## 📦 Skills
 
 * **Languages:** JavaScript, HTML5, CSS3
-* **Tools & Frameworks:** Tailwind CSS, Firebase Auth & Firestore, Git, GitHub
+* **Tools & Frameworks:** Tailwind CSS, Firebase Auth & Firestore, Git, GitHub, React
 * **Focus Areas:** Frontend engineering, user dashboards, responsive design
 
 ---
@@ -48,15 +48,15 @@ Simple login & signup UI wired to Firebase Authentication.
 * Advanced JavaScript
 * Tailwind CSS mastery
 * Firebase Firestore step-by-step
-* DevOps basics
+* React
 
 ---
 
 ## 📫 Connect With Me
 
-* **GitHub:** (add your link)
-* **Twitter:** (add your link)
-* **Portfolio:** (coming soon)
+* **GitHub:** 
+* **Twitter:** https://x.com/SIYDTHEDEV?t=Xj0EeE7OybvkKhCMU-vF8g&s=09
+* **Portfolio:** 
 
 ---
 
@@ -75,9 +75,6 @@ I’m dedicated to becoming a world‑class developer — one clean line of code
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIYD-TECH\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SIYD-TECH\&theme=tokyonight\&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SIYD-TECH\&theme=tokyonight\&no-frame=true\&margin-w=5)
-
 </div>
 
 ---
