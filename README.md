@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Solomon
 
-<!--
-**SIYD-TECH/SIYD-TECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Front-End Developer** and **Computer Science Master's student** aiming to become fully job‑ready. I specialize in building responsive, accessible, and clean UI experiences with **HTML**, **CSS**, **Tailwind**, and **JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+* 🌐 Build clean and responsive websites
+* 🎨 Design elegant UI using Tailwind CSS
+* 💻 Learn and master JavaScript fundamentals
+* 🔧 Explore Firebase for authentication and user dashboards
+* 📚 Constantly learning — Meta Front-End Dev, DevOps foundations, and more
+
+---
+
+## 📦 Skills
+
+* **Languages:** JavaScript, HTML5, CSS3
+* **Tools & Frameworks:** Tailwind CSS, Firebase Auth & Firestore, Git, GitHub
+* **Focus Areas:** Frontend engineering, user dashboards, responsive design
+
+---
+
+## 📈 Current Goals
+
+* Finish JavaScript fundamentals
+* Build a personalized dashboard system with Firebase
+* Complete the Meta Front-End Development course
+* Become job‑ready for a front-end role
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔹 Expense Tracker (No JS Version)
+
+Clean, responsive dashboard layout built with Tailwind CSS.
+
+### 🔹 Firebase Auth Starter
+
+Simple login & signup UI wired to Firebase Authentication.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* Tailwind CSS mastery
+* Firebase Firestore step-by-step
+* DevOps basics
+
+---
+
+## 📫 Connect With Me
+
+* **GitHub:** (add your link)
+* **Twitter:** (add your link)
+* **Portfolio:** (coming soon)
+
+---
+
+### ⭐ Fun Fact
+
+I’m dedicated to becoming a world‑class developer — one clean line of code at a time.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIYD-TECH\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIYD-TECH\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SIYD-TECH\&theme=tokyonight\&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SIYD-TECH\&theme=tokyonight\&no-frame=true\&margin-w=5)
+
+</div>
+
+---
+
+Thanks for checking out my profile!
