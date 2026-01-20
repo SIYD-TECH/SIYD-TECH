@@ -1,78 +1,62 @@
-# 👋 Hi, I'm Solomon
+👋 Hi, I'm Solomon (Solo)
+A passionate Computer Science Student and Software Engineer specializing in the MERN Stack. I focus on building responsive, scalable, and user-centric web applications while maintaining a strong academic foundation at LAUTECH 
 
-A passionate **Front-End Developer** and **Computer Science student** aiming to become fully job‑ready. I specialize in building responsive, accessible, and clean UI experiences with **HTML**, **CSS**, **Tailwind**, React and **JavaScript**.
+🚀 What I Do
+🌐 Frontend: Crafting clean, accessible UI with React, Tailwind CSS, and JavaScript.
 
----
+⚙️ Backend: Building scalable systems and APIs (Currently mastering the MERN stack).
 
-## 🚀 What I Do
+🔧 DevOps: Exploring cloud infrastructure and DevOps foundations.
 
-* 🌐 Build clean and responsive websites
-* 🎨 Design elegant UI using Tailwind CSS
-* 💻 Learn and master JavaScript fundamentals
-* 🔧 Explore Firebase for authentication and user dashboards
-* 📚 Constantly learning — Meta Front-End Dev, DevOps foundations, and more
+📚 Continuous Learning: Deep diving into Advanced React and System Analysis.
 
----
+📦 Skills
+Languages: JavaScript (ES6+), HTML5, CSS3, Java (Academic)
 
-## 📦 Skills
+Frameworks & Libraries: React.js, Tailwind CSS
 
-* **Languages:** JavaScript, HTML5, CSS3
-* **Tools & Frameworks:** Tailwind CSS, Firebase Auth & Firestore, Git, GitHub, React
-* **Focus Areas:** Frontend engineering, user dashboards, responsive design
+Backend & Database: Firebase (Auth & Firestore), Node.js (Learning), MongoDB
 
----
+Tools: Git, GitHub, VS Code
 
-## 📈 Current Goals
+Focus Areas: Frontend Engineering, Scalable Systems, Responsive Design, Student Tech Politics
 
-* Finish JavaScript fundamentals
-* Build a personalized dashboard system with Firebase
-* Complete the Meta Front-End Development course
-* Become job‑ready for a front-end role
+🛠️ Featured Projects
+🎬 CineSearch
+A dynamic movie finder application built with React. Features include a responsive navigation bar, a personalized watchlist, and real-time movie data integration.
 
----
+🔒 AnonMsg
+An anonymous messaging platform designed for privacy and seamless user interaction. Built with a focus on clean UI and secure message handling.
 
-## 🛠️ Featured Projects
+📊 Expense Tracker / Finance Flow
+A comprehensive finance management tool to help users track spending. Transitioned from a static Tailwind layout to a functional web app.
 
-### 🔹 Expense Tracker (No JS Version)
+🤝 LAUConnect
+A web application aimed at connecting LAUTECH students with campus clubs and organizations, fostering better campus engagement.
 
-Clean, responsive dashboard layout built with Tailwind CSS.
+📈 2026 Goals
+✅ Become Job-Ready: Securing a Software Engineering internship.
 
-### 🔹 Firebase Auth Starter
+💻 Build & Ship: Deploying 3+ full-stack (MERN) projects.
 
-Simple login & signup UI wired to Firebase Authentication.
+🌱 Currently Learning
+Advanced React: Mastering hooks (useReducer, useContext) and state management.
 
----
+MERN Stack: Deepening expertise in MongoDB and Express.js.
 
-## 🌱 Currently Learning
+Data Structures & AI
 
-* Advanced JavaScript
-* Tailwind CSS mastery
-* Firebase Firestore step-by-step
-* React
+📫 Connect With Me
+Twitter/X: @SIYDTHEDEV
 
----
+GitHub: SIYD-TECH
 
-## 📫 Connect With Me
+Portfolio: [Your Portfolio Link Here]
 
-* **GitHub:** 
-* **Twitter:** https://x.com/SIYDTHEDEV?t=Xj0EeE7OybvkKhCMU-vF8g&s=09
-* **Portfolio:** 
+⭐ Fun Fact
+I’m a tactical genius in training—whether it’s debugging complex React state or watching strategic crime thrillers like Prison Break.
 
----
-
-### ⭐ Fun Fact
-
-I’m dedicated to becoming a world‑class developer — one clean line of code at a time.
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIYD-TECH\&show_icons=true\&theme=tokyonight\&hide_border=true)
 </div>
-
----
-
-Thanks for checking out my profile!
